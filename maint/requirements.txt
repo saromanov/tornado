@@ -16,7 +16,7 @@ Twisted==14.0.0
 pycurl==7.19.3.1
 
 # Other useful tools
-Sphinx==1.2.2
+Sphinx==3.0.4
 autopep8==1.0.2
 coverage==3.7.1
 pep8==1.5.6
